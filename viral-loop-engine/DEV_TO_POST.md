@@ -91,7 +91,7 @@ What is your go-to AI coding tool? Let me know below.
 ---
 ``` 
 
-*(Note: [Link to your video or add a screenshot here if you ended up taking one!])*
+📺 **[Watch the Video Demo Here](https://docs.google.com/videos/d/1MBk9Y_ABRR9iV6a9JEv9KsWwdDoYsQBo3ZDchdBOJcw/edit?usp=drive_link)**
 
 ## What I Learned
 Building with OpenClaw is fundamentally different from building standard API wrappers. By defining the agent's identity via `SOUL.md` and `USER.md`, we didn't have to keep re-prompting the model with our preferences it works autonomously, that is the interesting part of it. It felt less like writing code and more like writing an employee handbook (`AGENTS.md`). 
