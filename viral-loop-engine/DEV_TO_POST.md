@@ -122,7 +122,7 @@ Overall, OpenClaw provides a brilliant orchestration layer that bridges the gap 
 ## Repo & Documentation
 You can find the full source code, sample analytics CSV, and setup instructions in the repository below.
 
-🔗 **[GitHub Repository: Viral Loop Engine](#)**
+🔗 **(https://github.com/ElielBright/Viral-Loop-Engine.git)(#)**
 
 ***
 
